@@ -1,0 +1,11 @@
+{
+    "appName": "external-secret",
+    "userGivenName": "external-secret",
+    "destNamespace": "external-secret",
+    "destServer": "https://kubernetes.default.svc",
+    "srcPath": "external-secret/overlays/dev",
+    "srcRepoURL": "https://github.com/patiyan-sukkasem/goapp-deployments.git",
+    "srcTargetRevision": "",
+    "labels": null,
+    "annotations": null
+  }
