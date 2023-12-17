@@ -1,0 +1,11 @@
+{
+  "appName": "goapp-qa",
+  "userGivenName": "goapp",
+  "destNamespace": "goapp-qa",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "goapp/overlays/qa",
+  "srcRepoURL": "https://github.com/patiyan-sukkasem/goapp-deployments.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
